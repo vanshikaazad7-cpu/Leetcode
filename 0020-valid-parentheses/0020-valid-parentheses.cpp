@@ -12,7 +12,7 @@ public:
             } else if (c == '[') {
                 st.push(']');
             } else {
-                // If it's a closing bracket, check if stack is empty or top doesn't match
+                
                 if (st.empty() || st.top() != c) {
                     return false;
                 }
