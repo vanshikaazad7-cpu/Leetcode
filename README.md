@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0231-power-of-two) |
 ## Newton's Method
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
