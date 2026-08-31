@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vanshikaazad7-cpu/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
